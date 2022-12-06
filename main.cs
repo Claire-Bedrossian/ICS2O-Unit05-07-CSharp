@@ -14,7 +14,7 @@ class Program
         double sum = 0;
         double counter = 0;
         double loop = 0;
-   
+
         for (loop = 0; loop < numN; loop++)
         {
             counter++;
